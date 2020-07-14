@@ -1,0 +1,8 @@
+{
+  "path_to_dataset": "/path/to/hair-segmentation/dataset/test/",
+  "results_folder": "test_results/",
+  "img_size": 224,
+  "model_path": "/path/to/trained/model.h5",
+  "color": [255, 102, 255],
+  "alpha": 0.8
+}

@@ -1,0 +1,9 @@
+{
+  "path_to_dataset": "/path/to/hair-segmentation/dataset/",
+  "checkpoint": true,
+  "img_size": 224,
+  "logs": true,
+  "batch_size" : 16,
+  "num_epochs" : 30,
+  "model_prefix": "hair_segmentation_"
+}
