@@ -6,7 +6,7 @@ Original             | Example - color transfer
 
 Hair segmentation using tensorflow 2.0 and tf.keras.
 
-Model architecture from [https://arxiv.org/pdf/1712.07168.pdf]()
+Model architecture from [https://arxiv.org/pdf/1712.07168.pdf](https://arxiv.org/pdf/1712.07168.pdf)
 
 #### Data
 
@@ -53,7 +53,7 @@ Config files are in  folder /configs
 
 With tensorflow docker:
 
-prerequisite: tensorflow-gpu docker image [https://www.tensorflow.org/install/docker]()
+prerequisite: tensorflow-gpu docker image [https://www.tensorflow.org/install/docker](https://www.tensorflow.org/install/docker)
 
 ```console
 docker build -t hair-segmentation .
